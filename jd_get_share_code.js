@@ -5,6 +5,7 @@
 更新地址：https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js
 已支持IOS双京东账号, Node.js支持N个京东账号
 脚本兼容: QuantumultX, Surge, Loon, 小火箭，JSBox, Node.js
+
 ============Quantumultx===============
 [task_local]
 #获取互助码
